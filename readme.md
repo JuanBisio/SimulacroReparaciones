@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/JuanBisio/SimulacroReparaciones" target="blank"><img src="logo-utn.png" width="200" alt="UTN Logo" /></a>
+  <a href="https://github.com/JuanBisio/SimulacroReparaciones" target="blank"><img src="logo-utn.jpg" width="400" alt="UTN Logo" /></a>
 </p>
 
 # Ejecutar en desarrollo
