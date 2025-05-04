@@ -6,7 +6,9 @@
 
 
 1. Clonar Repo
-
+```
+git clone https://github.com/JuanBisio/SimulacroReparaciones.git
+```
 
 2. Instalar dependencias
 
