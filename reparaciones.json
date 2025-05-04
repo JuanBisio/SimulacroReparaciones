@@ -1,0 +1,52 @@
+[
+    {
+      "id_rep": 1,
+      "fecha_recepcion": "2025/05/10",
+      "cliente": "Ana Gómez",
+      "tipo_equipo": "Laptop",
+      "descripcion_problema": "No enciende",
+      "estado": "Recibido",
+      "costo_estimado": 5000,
+      "pagado": false
+    },
+    {
+      "id_rep": 2,
+      "fecha_recepcion": "2025/05/11",
+      "cliente": "Luis Fernandez",
+      "tipo_equipo": "Desktop",
+      "descripcion_problema": "Lento rendimiento",
+      "estado": "En Diagnóstico",
+      "costo_estimado": 5000,
+      "pagado": false
+    },
+    {
+      "id_rep": 3,
+      "fecha_recepcion": "2025/05/11",
+      "cliente": "Ana Torres",
+      "tipo_equipo": "Impresora",
+      "descripcion_problema": "No imprime color",
+      "estado": "Reparado",
+      "costo_estimado": 3500,
+      "pagado": true
+    },
+    {
+      "id_rep": 4,
+      "fecha_recepcion": "2025/05/12",
+      "cliente": "Carlos Ruiz",
+      "tipo_equipo": "Laptop",
+      "descripcion_problema": "Pantalla rota",
+      "estado": "Esp. Repuesto",
+      "costo_estimado": 12000,
+      "pagado": false
+    },
+    {
+      "id_rep": 5,
+      "fecha_recepcion": "2025/05/13",
+      "cliente": "Maria López",
+      "tipo_equipo": "Monitor",
+      "descripcion_problema": "Parpadea",
+      "estado": "Entregado",
+      "costo_estimado": 2000,
+      "pagado": true
+    }
+  ]
