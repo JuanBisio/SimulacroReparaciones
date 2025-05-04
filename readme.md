@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/JuanBisio/SimulacroReparaciones" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Futn.edu.ar%2Fes%2F%3Foption%3Dcom_content%26view%3Darticle%26id%3D1763&psig=AOvVaw3Qala5Eh9fV6c1cUGDk0g0&ust=1746471844363000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjm3uDAio0DFQAAAAAdAAAAABAE" width="200" alt="Nest Logo" /></a>
+  <a href="https://github.com/JuanBisio/SimulacroReparaciones" target="blank"><img src="logo-utn.png" width="200" alt="UTN Logo" /></a>
 </p>
 
 # Ejecutar en desarrollo
